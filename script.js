@@ -6,10 +6,10 @@ var w = c.width = window.innerWidth,
 		hh = h / 2,
 		
 		opts = {
-			strings: [ '"¡Feliz cumpleaños, mi amor! ', 'Te amo con todo mi corazón, Tania."'],
+			strings: [ '¡Feliz cumpleaños, ', ' mi amor!', 'Hoy sumas un año más,','mi vida,','te deseo lo mejor,','mi niña querida.','En cada sonrisa ',' y en cada despertar,','eres mi luz, ','mi razón de amar.','TANIA HUERTA C.'],
 			charSize: 30,
-			charSpacing: 35,
-			lineHeight: 40,
+			charSpacing: 30,
+			lineHeight: 35,
 			
 			cx: w / 2,
 			cy: h / 2,
